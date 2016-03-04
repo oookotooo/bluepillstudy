@@ -1,1 +1,2 @@
-以后本目录下的文档全部移到doc目录下, qaz: 2008.10.30
+https://en.wikipedia.org/wiki/HyperSpace_(software)
+http://invisiblethingslab.com/itl/Resources.html
